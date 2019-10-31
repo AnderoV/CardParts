@@ -1010,7 +1010,7 @@ Provides the capability to add  radio buttons with configurable inner/outer circ
 
 ### `CardPartHistogramView`
 
-Provides the caoability to generate the bar graph based on the data ranges with customizable bars , lines, colors etc..
+Provides the capability to generate the bar graph based on the data ranges with customizable bars , lines, colors etc..
 
 ```swift
     let dataEntries = self.generateRandomDataEntries()
